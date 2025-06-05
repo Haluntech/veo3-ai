@@ -8,7 +8,7 @@ import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 
 // Google OAuth 客户端ID
-const GOOGLE_CLIENT_ID = '1049691614917-7ncrqa4qmmg4oiamn8i1dfbrvphicoju.apps.googleusercontent.com';
+const GOOGLE_CLIENT_ID = '839847880896-9duo8sg2mvniuv8e72eg01t2kksofveq.apps.googleusercontent.com';
 
 function App() {
   return (
