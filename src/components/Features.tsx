@@ -6,10 +6,10 @@ const Features: React.FC = () => {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-[#8A7CFF] to-[#6C5CE7] bg-clip-text text-transparent mb-5">
-            Key Features of Veo 3
+            Key Features of EratoAI
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            Explore the cutting-edge capabilities that make Veo 3 the most advanced AI video generation model available today.
+            Explore the cutting-edge capabilities that make EratoAI the most advanced AI video generation model available today.
           </p>
         </div>
 
@@ -73,4 +73,4 @@ const Features: React.FC = () => {
   );
 };
 
-export default Features; 
+export default Features;

@@ -56,7 +56,7 @@ const Navbar: React.FC = () => {
     >
       <nav className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          <img src="/VEOAI2.svg" alt="Veo3 AI Logo" className="h-6 w-auto" />
+          <img src="/VEOAI2.png" alt="Veo3 AI Logo" className="h-6 w-auto" />
         </div>
 
         {/* Desktop Navigation */}

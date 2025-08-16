@@ -48,10 +48,10 @@ const VideoGallery: React.FC = () => {
       <div className="container mx-auto">
         <div className="text-center mb-14">
           <h2 className="text-3xl sm:text-4xl font-bold text-white mb-5">
-            Explore Videos Created with Veo3
+            Explore Videos Created with EratoAI
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
-            Experience the future of video creation—watch stunning AI-generated clips with perfectly synced audio, highlighting Veo 3's cutting-edge technology in action.
+            Experience the future of video creation—watch stunning AI-generated clips with perfectly synced audio, highlighting EratoAI's cutting-edge technology in action.
           </p>
         </div>
 

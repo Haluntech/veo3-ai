@@ -42,12 +42,12 @@ const FAQ: React.FC = () => {
 
   const faqItems = [
     {
-      question: "What is Veo3 AI?",
-      answer: "Veo3 ai is Google's advanced generative video and audio model. With veo3 ai, you can create videos with synchronized sound and dialogue from a prompt."
+      question: "What is EratoAI?",
+      answer: "EratoAI is an advanced generative video and audio model. With EratoAI, you can create videos with synchronized sound and dialogue from a prompt."
     },
     {
-      question: "How is Veo3 AI different from previous versions?",
-      answer: "Veo3 ai, also known as veo 3, introduces advanced sound generation, lip-syncing, and fast tracking. Google veo's model integrates with Imagen 4 and Flow for cinematic video creation."
+      question: "How is EratoAI different from other models?",
+      answer: "EratoAI introduces advanced sound generation, lip-syncing, and fast tracking. EratoAI's model integrates cutting-edge image and flow technologies for cinematic video creation."
     },
     {
       question: "Who can access Veo3 AI and Google Veo?",
@@ -76,7 +76,7 @@ const FAQ: React.FC = () => {
       <div className="container mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-[#8A7CFF] to-[#6C5CE7] bg-clip-text text-transparent mb-5">
-            Common Questions About Veo3 AI, Veo 3, and Google Veo
+            Common Questions About EratoAI
           </h2>
           <p className="text-lg text-gray-300 max-w-2xl mx-auto">
             Want to know how veo3 ai, veo 3, and google veo work? Here are answers to the most frequently asked questions about AI video and audio generation.
@@ -100,4 +100,4 @@ const FAQ: React.FC = () => {
   );
 };
 
-export default FAQ; 
+export default FAQ;

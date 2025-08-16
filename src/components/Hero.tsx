@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
       <div className="container mx-auto relative z-10 px-4 sm:px-6 lg:px-8 pt-32 pb-20 text-white">
         <div className="max-w-8xl mx-auto text-center">
           <h1 className="flex flex-wrap justify-center items-center text-4xl sm:text-5xl md:text-6xl font-bold mb-6 leading-tight">
-            <span className="inline-block">Veo 3 AI Video Generator
+            <span className="inline-block">EratoAI Video Generator
                </span>
             <span className="inline-block mx-1">&nbsp;</span>
             <span className="inline-block bg-gradient-to-r from-[#8A7CFF] to-[#6C5CE7] bg-clip-text text-transparent">
@@ -55,7 +55,7 @@ const Hero: React.FC = () => {
             </span>
           </h1>
           <p className="text-lg sm:text-xl text-gray-300 mb-8 leading-relaxed max-w-[65ch] mx-auto">
-            Veo3 AI, the latest breakthrough from Google Veo. With Veo3 AI, generate videos featuring synchronized sound, dialogue, and music—all from a simple prompt. Create cinematic scenes, lifelike characters, and dynamic animations powered by Veo3 AI's advanced tracking, native audio, and realistic physics. Integrated with Imagen 4 and Flow, Veo3 AI transforms your creative vision into stunning reality.
+            EratoAI, the most advanced video generation model. With EratoAI, generate videos featuring synchronized sound, dialogue, and music—all from a simple prompt. Create cinematic scenes, lifelike characters, and dynamic animations powered by EratoAI's advanced tracking, native audio, and realistic rendering.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a

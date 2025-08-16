@@ -9,10 +9,10 @@ const Footer: React.FC = () => {
           {/* Logo and Description */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center mb-4">
-              <img src="/VEOAI2.svg" alt="Veo3 AI Logo" className="h-6 w-auto" />
+              <img src="/VEOAI2.png" alt="EratoAI Logo" className="h-6 w-auto" />
             </div>
             <p className="text-sm text-gray-400 mb-6 max-w-md">
-              Create lifelike AI videos with Veo 3: dynamic sound effects, clear dialogue, and immersive background audio—all in perfect harmony.
+              Create lifelike AI videos with EratoAI: dynamic sound effects, clear dialogue, and immersive background audio—all in perfect harmony.
             </p>
             <div className="flex space-x-4">
               <a href="mailto:lmcha310@gmail.com" className="text-gray-400 hover:text-white transition-colors">
@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Veo3-ai. All rights reserved.
+            © {new Date().getFullYear()} EratoAI. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 text-sm text-gray-500 space-x-4">
             <a href="#" className="hover:text-gray-300 transition-colors">Back to Home</a>
